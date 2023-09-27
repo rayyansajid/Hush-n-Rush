@@ -1,0 +1,1 @@
+{'Smartwatch': 2, 'USB': 1, 'Watermelon': 1}

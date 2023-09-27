@@ -1,0 +1,39 @@
+Pant:94
+Skirt:89
+Vest:83
+Tie:99
+Sweater:92
+Coat:92
+Cap:100
+Scarf:109
+Abaya:100
+Frock:100
+Phone:100
+Phonecase:94
+Handsfree:100
+Smartwatch:66
+Charger:81
+Airdots:100
+USB:93
+Power bank:100
+Memory card:97
+Sugar:8
+Salt:100
+Rice:100
+Oil:96
+Tea:100
+Shampoo:100
+Soap:50
+Washing Soda:100
+Flour:100
+Pulses:100
+Apple:100
+Banana:92
+Apricot:89
+Pineapple:93
+Orange:100
+Watermelon:99
+Grapes:100
+Peach:100
+Mango:100
+Cherry:100
