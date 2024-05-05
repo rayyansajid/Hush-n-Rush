@@ -123,6 +123,11 @@ class Delivery_Employee(files.User):
             if OrdersDelivered != None:
                 with open('CS21034_12.txt') as f:
                     Emps = f.readlines()
+                    uncertainEmps = f.readlines()
+                    Emps = []
+                    for empNotNull in uncertainEmps:
+                        if empNotNull != "" and empNotNull != "\n":
+                            Emps.append(empNotNull)
                     print()
                     print(' ' * 10 + '%-9s%-14s%-s' % ('S.no', 'Name', 'Orders Delivered'))
                     for Single_Emp in Emps:
